@@ -4,3 +4,4 @@
 * Liver Cirrhosis Prediction
 * Heart Failure Prediction Analysis unig Power BI
 * Sentiment Analysis on Snapchat data
+* Time Series Analysis on Disease Prediction data
