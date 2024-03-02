@@ -1,4 +1,4 @@
 # Projects
-* Multi Files upload system
+* Multi Files uploading system
 * Retail rocket E-Commerce recommendation system
 * Liver Cirrhosis Prediction
